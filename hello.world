@@ -1,0 +1,3 @@
+So, I initially wondered why I couldn't just "git clone git://github ..." and then push to origin.
+
+The problem is that the origin needs to be git@github... not git://github.
